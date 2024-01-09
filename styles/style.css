@@ -1,5 +1,22 @@
-.New-year{
+.header{
+    color: aliceblue;
     text-align: center;
-    color: #727171;
+    font-size: 75px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 90px;
 
 }
+.header1{
+    background-image: url('../resources/Banner\ Image.png');
+    width: 1300px; 
+    height: 550px;
+    border-radius: 16px;
+    display:flex;
+    border-radius: 16px;
+    
+
+
+}
+
+
